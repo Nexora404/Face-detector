@@ -36,7 +36,18 @@ This program uses OpenCV to:
 
 # 🧠 Setup & Installation
 
-## ✔️ 1. Clone the Repository
+## ✔️ 1. Clone the Repository 
+##  2. Enter project folder
+1. Clone the Repository
+
+try this
+
+1. Install Python
+2. Clone the Repository
+3. Enter the Project Directory
+4. Install Dependencies
+5. Run the Program
+
 ```bash
 git clone git@github.com:Nexora404/Face-detector.git
 
